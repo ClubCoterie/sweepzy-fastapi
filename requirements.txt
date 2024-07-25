@@ -1,0 +1,11 @@
+SQLAlchemy~=2.0.31
+fastapi~=0.111.1
+pydantic~=2.8.2
+pandas~=2.0.3
+betfairlightweight~=2.20.2
+python-dotenv~=1.0.1
+cachetools~=5.4.0
+numpy~=1.24.4
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+selenium~=4.22.0
